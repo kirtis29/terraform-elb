@@ -20,5 +20,5 @@ variable "aws_key" {
 
  variable "aws_ami" {
      description = "ami id"
-     default = "ami-09439f09c55136ecf"
+     default = "ami-02a2af70a66af6dfb"
 }
